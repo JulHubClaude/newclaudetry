@@ -1,0 +1,28 @@
+date,transaction_type,asset_class,asset_name,ticker,broker,currency,quantity,price_per_unit,gross_amount,fees,taxes,net_amount,notes
+2024-01-02,deposit,cash,Cash Deposit,,Trade Republic,EUR,1,5000,5000,0,0,5000,Initial funding
+2024-01-05,buy,etf,iShares Core MSCI World,IWDA,Trade Republic,EUR,10,85.20,852.00,1.00,0,-853.00,Monthly savings plan
+2024-01-15,buy,stock,Apple Inc.,AAPL,Trade Republic,USD,5,185.50,927.50,1.00,0,-928.50,
+2024-02-01,deposit,cash,Cash Deposit,,Trade Republic,EUR,1,1000,1000,0,0,1000,
+2024-02-05,buy,etf,iShares Core MSCI World,IWDA,Trade Republic,EUR,12,86.10,1033.20,1.00,0,-1034.20,Monthly savings plan
+2024-02-20,buy,crypto,Bitcoin,BTC,Bitpanda,EUR,0.02,48000,960.00,5.00,0,-965.00,
+2024-03-01,deposit,cash,Cash Deposit,,Trade Republic,EUR,1,1000,1000,0,0,1000,
+2024-03-05,buy,etf,iShares Core MSCI World,IWDA,Trade Republic,EUR,11,87.30,960.30,1.00,0,-961.30,Monthly savings plan
+2024-03-15,dividend,stock,Apple Inc.,AAPL,Trade Republic,USD,5,0.24,1.20,0,0.30,0.90,Q1 dividend
+2024-04-02,buy,precious_metal,Gold 1oz,XAU,Heraeus,EUR,1,2050,2050,15.00,0,-2065.00,Physical gold coin
+2024-04-05,buy,etf,iShares Core MSCI World,IWDA,Trade Republic,EUR,11,88.40,972.40,1.00,0,-973.40,Monthly savings plan
+2024-05-05,buy,etf,iShares Core MSCI World,IWDA,Trade Republic,EUR,11,89.50,984.50,1.00,0,-985.50,Monthly savings plan
+2024-05-20,sell,stock,Apple Inc.,AAPL,Trade Republic,USD,2,195.00,390.00,1.00,5.00,384.00,Partial sell
+2024-06-05,buy,etf,iShares Core MSCI World,IWDA,Trade Republic,EUR,11,90.10,991.10,1.00,0,-992.10,Monthly savings plan
+2024-06-15,dividend,stock,Apple Inc.,AAPL,Trade Republic,USD,3,0.24,0.72,0,0.18,0.54,Q2 dividend
+2024-07-05,buy,etf,iShares Core MSCI World,IWDA,Trade Republic,EUR,10,91.20,912.00,1.00,0,-913.00,Monthly savings plan
+2024-07-20,buy,crypto,Ethereum,ETH,Bitpanda,EUR,0.5,3100,1550.00,7.50,0,-1557.50,
+2024-08-05,buy,etf,iShares Core MSCI World,IWDA,Trade Republic,EUR,10,92.40,924.00,1.00,0,-925.00,Monthly savings plan
+2024-09-05,buy,etf,iShares Core MSCI World,IWDA,Trade Republic,EUR,10,93.10,931.00,1.00,0,-932.00,Monthly savings plan
+2024-09-15,dividend,stock,Apple Inc.,AAPL,Trade Republic,USD,3,0.25,0.75,0,0.19,0.56,Q3 dividend
+2024-10-05,buy,etf,iShares Core MSCI World,IWDA,Trade Republic,EUR,9,94.00,846.00,1.00,0,-847.00,Monthly savings plan
+2024-10-20,fee,cash,Account Maintenance,,Bitpanda,EUR,1,2.50,2.50,2.50,0,-2.50,Quarterly fee
+2024-11-05,buy,etf,iShares Core MSCI World,IWDA,Trade Republic,EUR,9,95.20,856.80,1.00,0,-857.80,Monthly savings plan
+2024-11-25,sell,crypto,Bitcoin,BTC,Bitpanda,EUR,0.01,65000,650.00,5.00,0,645.00,Partial sell
+2024-12-05,buy,etf,iShares Core MSCI World,IWDA,Trade Republic,EUR,9,96.10,864.90,1.00,0,-865.90,Monthly savings plan
+2024-12-15,dividend,stock,Apple Inc.,AAPL,Trade Republic,USD,3,0.25,0.75,0,0.19,0.56,Q4 dividend
+2024-12-20,tax,cash,Capital Gains Tax,,Trade Republic,EUR,1,45,45,0,45,-45,Annual tax
